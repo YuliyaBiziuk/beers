@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+.rt-thead.-header{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #61dafb;
+    color:darkslategray;
+}
+header{
+    background-color: #000;
+}
+h1{
+    font-family: 'Indie Flower', cursive;
+    color:#fff;
+    margin: 0px;
+}
+.red{
+    padding:20px;
+    border: 1px solid gray;
+}
